@@ -1,8 +1,9 @@
-wiki
+---
+---
 
-Amethyst
-css
-JS
-vim
-zsh
-React
+- Amethyst
+- css
+- JS
+- vim
+- zsh
+- React
