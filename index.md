@@ -4,6 +4,6 @@
 - Amethyst
 - css
 - JS
-- vim
+- [Vim](vim.md)
 - zsh
 - React
